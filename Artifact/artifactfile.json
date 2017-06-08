@@ -1,4 +1,5 @@
 {
+    "$schema": "https://github.com/sproloy/webrdpclient/blob/master/Artifact/artifactfile.json",
     "title": "webrdpclient",
     "description": "webclientrdpclient",
     "tags": [
