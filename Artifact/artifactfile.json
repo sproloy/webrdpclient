@@ -1,0 +1,11 @@
+{
+    "title": "webrdpclient",
+    "description": "webclientrdpclient",
+    "tags": [
+        "Windows"
+    ],
+    "targetOsType": "Windows",
+    "runCommand": {
+        "commandToExecute": "powershell.exe -ExecutionPolicy bypass -File webclient.ps1"
+    }
+}
